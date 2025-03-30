@@ -1,0 +1,6 @@
+# Pokemon - Ultra Violet(1.22) LSA
+game_name = ULTRA VIOLET
+game_code = PUVV
+vender_code = 01
+idle_loop_eliminate_target = 080008c6
+flash_rom_type = 128KB
